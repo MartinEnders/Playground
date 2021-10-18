@@ -14,3 +14,4 @@ Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 Meine Lieblingsuhrzeit ist XXX weil ...
 
 * Meine Lieblingsuhrzeit ist 22:11 weil dann nach 11 Minuten 22:22 ist.
+* Meine Lieblingsuhrzeit ist 00:18 weil 8 eine glückliche Zahl ist.
